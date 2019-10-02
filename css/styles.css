@@ -21,6 +21,20 @@ h2 {
 
 h3 {
   color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.home-link {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+.home-link:hover {
+  color: #02383c;
+  text-decoration: underline;
 }
 
 a {
