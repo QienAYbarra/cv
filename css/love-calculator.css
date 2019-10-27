@@ -1,0 +1,23 @@
+body {
+    background-color: #66BFBF;
+}
+
+.lets-calc-love {
+    font-family: "Montserrat";
+    font-weight: bold;
+    color: white;
+    text-align: center;
+}
+
+.loveHeartTransparent {
+    text-align: center;
+    margin: 0 auto 0 auto;
+    margin-top: 60px;
+    display: block;
+}
+
+.loveCalculator {
+    text-align: center;
+    margin: 0 auto 0 auto;
+    display: block;
+}

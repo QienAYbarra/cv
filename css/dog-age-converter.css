@@ -1,0 +1,23 @@
+body {
+    background-color: #66BFBF;
+}
+
+.question-dog-to-human {
+    font-family: "Montserrat";
+    font-weight: bold;
+    color: white;
+    text-align: center;
+}
+
+.climbingPuppies {
+    text-align: center;
+    margin: 0 auto 0 auto;
+    margin-top: 60px;
+    display: block;
+}
+
+.dogAgeConverter {
+    text-align: center;
+    margin: 0 auto 0 auto;
+    display: block;
+}
