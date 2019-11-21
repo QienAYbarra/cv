@@ -1,0 +1,32 @@
+#navbarTop ul {
+	padding: 5px;
+	list-style-type: none;
+	text-align: center;
+	background-color: #000;
+	margin: 10px;
+	border-radius: 5px;
+	position: fixed;
+
+}
+
+#navbarTop ul li {
+    display: inline;
+}
+
+#navbarTop ul li a {
+	text-decoration: none;
+	font-family: Arial;
+	padding: .2em 1em;
+	color: #000;
+	background-color: #A9A9A9;
+	transition: 0.5s ease-in-out;
+}
+
+
+
+#navbarTop ul li a:hover {
+	color: #FFF;
+	background-color: #000;
+	opacity: 0.8;
+	cursor: pointer;
+}
